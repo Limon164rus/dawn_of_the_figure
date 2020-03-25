@@ -1,5 +1,6 @@
 import math
 a=float(input('Введите сторону треугольника a:'))
 b=float(input('Введите сторону треугольника b:'))
-S=(a*b)/2
+c=float(input('Введите сторону треугольника c:'))
+S=(a*b*c)/2
 print(S)
